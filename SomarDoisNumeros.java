@@ -1,5 +1,7 @@
 import java.util.*;
 
+//Autoavaliação: total.
+
 class SomarDoisNumeros {
 	public static Scanner sc = new Scanner (System.in);
 	public static void main (String args[]){
